@@ -9,5 +9,11 @@ If you'd like to contribute to babel please fork, fix, commit and send a pull re
 
 You can also send us an email to `support@babeleth.com` for any private related matter.
 
+## Authors
+Bill Hinostroza [@djhiphop23](https://twitter.com/djhiphop23)
+
+## Credits
+* [FreePik](http://www.freepik.com)
+
 ## License
 Babel is open source and distributed under [GPLv3 license](https://github.com/billh93/babel/LICENSE.txt).
