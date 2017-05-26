@@ -1,7 +1,33 @@
 /***************
 Profile
 ***************/
+#profile-card{
+    margin-top: 3%;
+}
 
+#card-header{
+    background-color: #fafafa;
+}
+
+#card-body{
+    margin-top: -20px;
+}
+
+#profile-photo{
+    width: 95%;
+    height: 95%;
+}
+
+#ratings-card{
+    margin-left: 2%;
+}
+.vertical-line {
+  border-left: thick solid #ff0000;
+}
+
+/***************
+Landing Page
+***************/
  .navbar-fixed{
      z-index: 998 !important;
  }
