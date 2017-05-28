@@ -1,7 +1,14 @@
 /***************
 Item
 ***************/
-#ratings-divider{
+#load-more-btn-container{
+    padding: 2% 0;
+    margin-bottom: -2%; 
+}
+#load-more-btn{
+    margin-left: 2%;
+}
+.section-divider{
     background-color: #ddd;
 }
 #item-pics{

@@ -8,5 +8,6 @@
             hover: true, // Activate on hover
             belowOrigin: true, // Displays dropdown below the button
         });
+        $(".button-collapse").sideNav();
     }); // end of document ready
 })(jQuery); // end of jQuery name space
