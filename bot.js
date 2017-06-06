@@ -13,9 +13,9 @@ status.command({
 });
 
 status.command({
-    name: "hello",
-    title: "HelloBot",
-    description: "Helps you say hello",
+    name: "babel",
+    title: "Babelbot",
+    description: "Just says 'Babel' is cool!",
     color: "#CCCCCC",
     preview: function(params) {
         var text = status.components.text({
@@ -26,7 +26,7 @@ status.command({
                 fontFamily: "font",
                 color: "black"
             }
-        }, "Hello from the other side!");
+        }, "Babel is cool!");
 
         return {markup: status.components.view({}, [text])};
     }
