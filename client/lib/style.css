@@ -3,7 +3,7 @@ Item
 ***************/
 #load-more-btn-container{
     padding: 2% 0;
-    margin-bottom: -2%; 
+    margin-bottom: -2%;
 }
 #load-more-btn{
     margin-left: 2%;
@@ -115,6 +115,21 @@ Profile
 /***************
 Landing Page
 ***************/
+.notification{
+    background: #2979FF;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.notification a{
+  color: white;
+  font-weight: bold;
+}
+.notification a:hover{
+  color: black;
+  font-weight: bold;
+}
  .navbar-fixed{
      z-index: 998 !important;
  }
