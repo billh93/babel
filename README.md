@@ -7,10 +7,9 @@ These instructions will get you a copy of the project up and running on your loc
 ## Contribution
 If you'd like to contribute to babel please fork, fix, commit and send a pull request. Commits who do not comply with the coding standards are ignored. If you send pull requests make absolute sure that you commit on the develop branch and that you do not merge to master. Commits that are directly based on master are simply ignored.
 
-You can also send us an email to `bill@joinbabel.com` for any private related matter.
-
 ## Authors
 Bill Hinostroza [@djhiphop23](https://twitter.com/djhiphop23)
+Nathan Bocanegra nboca30 AT gmail DOT com
 
 ## Credits
 * [FreePik](http://www.freepik.com)
